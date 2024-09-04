@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+statsmodels
+openpyxl
+plotly
+nbformat
+xgboost
+kneed
